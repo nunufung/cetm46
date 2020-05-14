@@ -1,0 +1,30 @@
+server <- function(input,output, session) {
+  
+  
+  library(ggplot2) # for the diamonds dataset, and ggplot feature
+  library(DT) # for the dataTableOutput
+  library(shiny) # should always be activated
+  
+  
+  output$plot <- renderPlot({
+    ggplot(dataset, aes(price, neighbourhood)) + geom_point()
+  })
+  
+  airbnb <- reactive({
+    
+    user_brush <- input$user_brush
+    sel <- brushedPoints(dataset, user_brush)
+    return(sel)
+    
+  })
+  
+  output$table <- DT::renderDataTable(DT::datatable(airbnb()))
+}
+
+ui <-   fluidPage(
+  h1("Using the brush feature to select specific observations"),
+  plotOutput("plot", brush = "user_brush"),
+  dataTableOutput("table")
+)
+
+shinyApp(ui = ui, server = server)
