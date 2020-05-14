@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <link rel="stylesheet"
+    href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+    crossorigin="anonymous">
+</head>
+<body>
+  <nav class="navbar navbar-light bg-light">
+    <div class="container">
+      <h4>Exploratory Data Visualization of Airbnb Dataset in Hong Kong</h4>
+    </div>
+  </nav>
+
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div id="line-chart"></div>
+       </div>
+
+      <div class="col">
+        <div id="column-chart"></div>
+      </div>
+
+      <div class="col">
+        <div id="pie-chart"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+  <script>
+    // Line chart
+    Highcharts.chart('line-chart', {
+      chart: {
+        type: 'line'
+      },
+      title: {
+        text: 'Monthly Average Temperature'
+      },
+      xAxis: {
+        categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+      },
+      yAxis: {
+        title: {
+            text: 'Temperature (°C)'
+        }
+      },
+      series: [{
+        name: 'Hong Kong',
+        data: [16.2, 16.1, 18.4, 22.1, 26.1, 28.0, 28.7, 28.6, 27.9, 25.4, 21.8, 17.7, 23.1]
+      },
+        {
+        name: 'London',
+        data: [4.9, 4.6, 7.1, 9.0, 12.6, 15.6, 18.4, 17.8, 15.2, 12.0, 7.7, 6.1, 11.0]
+      }]
+    });
+
+    // Column chart
+    Highcharts.chart('column-chart', {
+      chart: {
+        type: 'column'
+      },
+      title: {
+          text: 'Monthly Average Rainfall'
+      },
+      xAxis: {
+        categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+      },
+      yAxis: {
+        min: 0,
+        title: {
+            text: 'Rainfall (mm)'
+        }
+      },
+      series: [{
+        name: 'Hong Kong',
+        data: [27.2, 43.6, 74.7, 139.8, 298.3, 399.4, 371.4, 377.0, 297.3, 119.0, 38.4, 25.4]
+      },
+        {
+        name: 'London',
+        data: [61.5, 36.2, 49.8, 42.5, 45.0, 45.8, 45.7, 44.2, 42.7, 72.6, 45.1, 59.3]
+      }]
+    })
+
+    // Pie chart
+    Highcharts.chart('pie-chart', {
+      chart: {
+        type: 'pie'
+      },
+      title: {
+        text: 'Hong Kong\'s principal ethnic minorities'
+      },
+      series: [
+        {
+          name: 'Ethnic minorities',
+          data: [{
+            name: 'Indonesian',
+            y: 153299
+          }, {
+            name: 'Filipino',
+            y: 184081
+          }, {
+            name: 'White',
+            y: 58209
+          }, {
+            name: 'Indian',
+            y: 36462
+          }, {
+            name: 'Pakistani',
+            y: 18094
+          }, {
+            name: 'Nepalese',
+            y: 25472
+          }, {
+            name: 'Japanese',
+            y: 9976
+          }, {
+            name: 'Thai',
+            y: 10215
+          }, {
+            name: 'Other Asian',
+            y: 19589
+          }, {
+            name: 'Others',
+            y: 68986
+          }]
+        }
+      ]
+    })
+  </script>
+</body>
+</html>
