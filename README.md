@@ -21,6 +21,7 @@ https://towardsdatascience.com/how-to-develop-data-products-and-not-die-trying-7
 https://cdn.oreillystatic.com/en/assets/1/event/278/Agile%20for%20data%20science%20teams%20Presentation.pdf
 https://srdas.github.io/MLBook/Shiny.html
 https://www.r-bloggers.com/building-shiny-apps-an-interactive-tutorial/
+https://rpubs.com/szeting/499376
 
 
 
