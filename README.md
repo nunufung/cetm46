@@ -19,5 +19,7 @@ https://books.google.com.hk/books?id=JmydDwAAQBAJ&pg=PA49&lpg=PA49&dq=data+produ
 https://hbr.org/2018/10/how-to-build-great-data-products
 https://towardsdatascience.com/how-to-develop-data-products-and-not-die-trying-762c8878d05c
 https://cdn.oreillystatic.com/en/assets/1/event/278/Agile%20for%20data%20science%20teams%20Presentation.pdf
+https://www.coursera.org/learn/data-products
+
 
 
