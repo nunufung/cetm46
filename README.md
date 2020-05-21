@@ -1,13 +1,6 @@
 # cetm46
 Data source https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset#
 
-Related ML analysis:-
-Kaggle https://www.kaggle.com/kerneler/starter-online-shoppers-intention-61300996-2
-https://www.kaggle.com/kageyama/lgbm-online-shopper-s-eda-and-classification
-https://www.kaggle.com/roshansharma/online-shoppers-intention
-https://www.kaggle.com/roshansharma/online-shopper-s-intention
-
-
 Reference Articles: -
 # Webdata product 
 https://www.codementor.io/@jadianes/building-a-web-based-sentiment-classifier-using-r-shiny-du107oagb
@@ -21,10 +14,16 @@ https://cdn.oreillystatic.com/en/assets/1/event/278/Agile%20for%20data%20science
 https://srdas.github.io/MLBook/Shiny.html
 https://www.r-bloggers.com/building-shiny-apps-an-interactive-tutorial/
 
-# Kaggle visualization 
+# visualization 
 https://www.kaggle.com/alexisbcook/bar-charts-and-heatmaps
 https://rpubs.com/szeting/499376
 https://link.springer.com/article/10.1007/s12525-014-0153-y
+https://rpubs.com/szeting/499376
+Related ML analysis:-
+Kaggle https://www.kaggle.com/kerneler/starter-online-shoppers-intention-61300996-2
+https://www.kaggle.com/kageyama/lgbm-online-shopper-s-eda-and-classification
+https://www.kaggle.com/roshansharma/online-shoppers-intention
+https://www.kaggle.com/roshansharma/online-shopper-s-intention
 
 # Design thinking data product 
 https://towardsdatascience.com/the-data-product-design-thinking-process-6b3eba561b2b
