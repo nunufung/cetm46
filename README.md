@@ -21,7 +21,7 @@ https://cdn.oreillystatic.com/en/assets/1/event/278/Agile%20for%20data%20science
 https://srdas.github.io/MLBook/Shiny.html
 https://www.r-bloggers.com/building-shiny-apps-an-interactive-tutorial/
 
-# Kaggple visualization 
+# Kaggle visualization 
 https://www.kaggle.com/alexisbcook/bar-charts-and-heatmaps
 https://rpubs.com/szeting/499376
 https://link.springer.com/article/10.1007/s12525-014-0153-y
