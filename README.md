@@ -22,6 +22,7 @@ https://www.loqutus.com/data-driven-apps-with-r-shiny/
 # visualization 
 https://www.kaggle.com/alexisbcook/bar-charts-and-heatmaps
 https://rpubs.com/szeting/499376
+https://rpubs.com/kingiraffe/588410
 https://link.springer.com/article/10.1007/s12525-014-0153-y
 https://rpubs.com/szeting/499376
 Related ML analysis:-
