@@ -15,6 +15,8 @@ https://cdn.oreillystatic.com/en/assets/1/event/278/Agile%20for%20data%20science
 https://srdas.github.io/MLBook/Shiny.html
 https://www.r-bloggers.com/building-shiny-apps-an-interactive-tutorial/
 https://www.inwt-statistics.com/read-blog/best-practice-development-of-robust-shiny-dashboards-as-r-packages.html
+https://www.loqutus.com/data-driven-apps-with-r-shiny/
+
 
 
 # visualization 
