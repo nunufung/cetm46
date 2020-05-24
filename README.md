@@ -1,5 +1,4 @@
-# Data topic, data source 
-Topic: Online Shopper Purchasing Intention 
+# Data topic, data source - Topic: Online Shopper Purchasing Intention 
 Data source:  https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset#
 
 
