@@ -16,6 +16,7 @@ https://srdas.github.io/MLBook/Shiny.html
 https://www.r-bloggers.com/building-shiny-apps-an-interactive-tutorial/
 https://www.inwt-statistics.com/read-blog/best-practice-development-of-robust-shiny-dashboards-as-r-packages.html
 https://www.loqutus.com/data-driven-apps-with-r-shiny/
+https://www.researchgate.net/publication/260789705_Shiny_happy_people_buying_the_role_of_emotions_on_personalized_e-shopping
 
 
 
