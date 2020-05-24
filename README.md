@@ -1,8 +1,10 @@
-# cetm46
-Data source https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset#
+# Data topic, data source 
+Topic: Online Shopper Purchasing Intention 
+Data source:  https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset#
 
-Reference Articles: -
-# Webdata product 
+
+# Reference Articles: -
+Webdata product 
 https://www.codementor.io/@jadianes/building-a-web-based-sentiment-classifier-using-r-shiny-du107oagb
 https://www.researchgate.net/publication/236395420_Design_Analytics_in_Consumer_Product_Design_A_Simulated_Study
 https://blog.prototypr.io/before-the-design-comes-the-data-e54d29c05bcb
