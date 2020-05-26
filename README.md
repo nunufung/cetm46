@@ -33,6 +33,8 @@ https://www.kaggle.com/kageyama/lgbm-online-shopper-s-eda-and-classification
 https://www.kaggle.com/roshansharma/online-shoppers-intention
 https://www.kaggle.com/roshansharma/online-shopper-s-intention
 https://rstudio.github.io/shinydashboard/get_started.html
+https://www.freecodecamp.org/news/build-your-first-web-app-dashboard-using-shiny-and-r-ec433c9f3f6c/
+
 
 # Design thinking data product 
 https://towardsdatascience.com/the-data-product-design-thinking-process-6b3eba561b2b
