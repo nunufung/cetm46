@@ -33,6 +33,7 @@ https://www.kaggle.com/kageyama/lgbm-online-shopper-s-eda-and-classification
 https://www.kaggle.com/roshansharma/online-shoppers-intention
 https://www.kaggle.com/roshansharma/online-shopper-s-intention
 https://rstudio.github.io/shinydashboard/get_started.html
+https://www.kaggle.com/mmsant/r-shiny-dashboard-for-customer-data
 
 
 
