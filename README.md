@@ -32,6 +32,7 @@ Kaggle https://www.kaggle.com/kerneler/starter-online-shoppers-intention-6130099
 https://www.kaggle.com/kageyama/lgbm-online-shopper-s-eda-and-classification
 https://www.kaggle.com/roshansharma/online-shoppers-intention
 https://www.kaggle.com/roshansharma/online-shopper-s-intention
+https://rstudio.github.io/shinydashboard/get_started.html
 
 # Design thinking data product 
 https://towardsdatascience.com/the-data-product-design-thinking-process-6b3eba561b2b
