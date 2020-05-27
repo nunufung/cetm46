@@ -19,6 +19,7 @@ https://www.loqutus.com/data-driven-apps-with-r-shiny/
 https://www.researchgate.net/publication/260789705_Shiny_happy_people_buying_the_role_of_emotions_on_personalized_e-shopping
 https://link.springer.com/article/10.1007/s12525-014-0153-y
 https://www.kaggle.com/blastchar/telco-customer-churn
+https://books.google.com.hk/books?id=omdWUlkokVIC&pg=PP6&lpg=PP6&dq=online+data+mining+product+design&source=bl&ots=ULvKzDG9Xq&sig=ACfU3U3sMoD5qWLm6pIlwBvFveF8SFl-LQ&hl=zh-TW&sa=X&ved=2ahUKEwjq5JmD89LpAhUBE6YKHb7sCZ4Q6AEwBXoECAkQAQ#v=onepage&q&f=false
 
 
 # visualization 
