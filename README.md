@@ -36,7 +36,9 @@ https://www.kaggle.com/roshansharma/online-shoppers-intention
 https://www.kaggle.com/roshansharma/online-shopper-s-intention
 https://rstudio.github.io/shinydashboard/get_started.html
 https://www.kaggle.com/mmsant/r-shiny-dashboard-for-customer-data
-
+http://rstudio-pubs-static.s3.amazonaws.com/442188_4a4d496adad045cf9ef56e542353dcad.html
+https://medium.com/analytics-vidhya/preprocessing-data-for-predicting-online-shoppers-purchasing-intention-ml-ba78186b7e85
+https://github.com/zhangyuqing/h2o_purchasing_intention/blob/master/h2o_Rcode.R
 
 
 # Design thinking data product 
