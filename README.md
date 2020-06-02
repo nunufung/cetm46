@@ -21,6 +21,7 @@ https://link.springer.com/article/10.1007/s12525-014-0153-y
 https://www.kaggle.com/blastchar/telco-customer-churn
 https://books.google.com.hk/books?id=omdWUlkokVIC&pg=PP6&lpg=PP6&dq=online+data+mining+product+design&source=bl&ots=ULvKzDG9Xq&sig=ACfU3U3sMoD5qWLm6pIlwBvFveF8SFl-LQ&hl=zh-TW&sa=X&ved=2ahUKEwjq5JmD89LpAhUBE6YKHb7sCZ4Q6AEwBXoECAkQAQ#v=onepage&q&f=false
 http://robotics.stanford.edu/~ronnyk/integratingEcom.pdf
+https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1025&context=bled2017
 
 
 # visualization 
