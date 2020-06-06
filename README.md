@@ -41,6 +41,7 @@ http://rstudio-pubs-static.s3.amazonaws.com/442188_4a4d496adad045cf9ef56e542353d
 https://medium.com/analytics-vidhya/preprocessing-data-for-predicting-online-shoppers-purchasing-intention-ml-ba78186b7e85
 https://github.com/zhangyuqing/h2o_purchasing_intention/blob/master/h2o_Rcode.R
 https://medium.com/analytics-vidhya/predicting-online-shoppers-purchasing-intention-9d56e4cc20ba
+https://github.com/sharmaroshan/Online-Shoppers-Purchasing-Intention/blob/master/Online_Shoppers_Purchasing_Intention%20(1).ipynb
 
 Kaggle Retail Analysis using Shiny
 https://rstudio-pubs-static.s3.amazonaws.com/410234_dbcc04d681064a1bb25efe220c9d93b6.html
