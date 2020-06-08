@@ -44,7 +44,8 @@ https://github.com/zhangyuqing/h2o_purchasing_intention/blob/master/h2o_Rcode.R
 https://medium.com/analytics-vidhya/predicting-online-shoppers-purchasing-intention-9d56e4cc20ba
 https://github.com/sharmaroshan/Online-Shoppers-Purchasing-Intention/blob/master/Online_Shoppers_Purchasing_Intention%20(1).ipynb
 https://radiant-rstats.github.io/radiant/
-
+https://towardsdatascience.com/the-data-product-design-thinking-process-6b3eba561b2b
+https://appsilon.com/services-industry/retail-ecommerce/
 
 # R Shiny
 https://rstudio-pubs-static.s3.amazonaws.com/410234_dbcc04d681064a1bb25efe220c9d93b6.html
@@ -52,11 +53,7 @@ https://youtu.be/ceg7MMQNln8 (DataProfessor)
 
 
 
-# Design thinking data product 
-https://towardsdatascience.com/the-data-product-design-thinking-process-6b3eba561b2b
 
-# Retail & Ecommerce
-https://appsilon.com/services-industry/retail-ecommerce/
 
 
 
