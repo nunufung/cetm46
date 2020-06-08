@@ -46,7 +46,7 @@ https://github.com/sharmaroshan/Online-Shoppers-Purchasing-Intention/blob/master
 https://radiant-rstats.github.io/radiant/
 
 
-Kaggle Retail Analysis using Shiny
+# R Shiny
 https://rstudio-pubs-static.s3.amazonaws.com/410234_dbcc04d681064a1bb25efe220c9d93b6.html
 https://youtu.be/ceg7MMQNln8 (DataProfessor)
 
