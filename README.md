@@ -51,7 +51,7 @@ https://rstudio-pubs-static.s3.amazonaws.com/410234_dbcc04d681064a1bb25efe220c9d
 https://youtu.be/ceg7MMQNln8 (DataProfessor)
 https://rdrr.io/cran/shinyML/src/R/shiny_h2o.R
 https://github.com/zhangyuqing/h2o_purchasing_intention/blob/master/h2o_Rcode.R
-
+https://github.com/aviyashchin/Machine-Learning-Explorer-in-Shiny
 
 
 
