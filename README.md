@@ -50,6 +50,7 @@ https://appsilon.com/services-industry/retail-ecommerce/
 # R Shiny
 https://rstudio-pubs-static.s3.amazonaws.com/410234_dbcc04d681064a1bb25efe220c9d93b6.html
 https://youtu.be/ceg7MMQNln8 (DataProfessor)
+https://rdrr.io/cran/shinyML/src/R/shiny_h2o.R
 
 
 
