@@ -52,7 +52,7 @@ https://youtu.be/ceg7MMQNln8 (DataProfessor)
 https://rdrr.io/cran/shinyML/src/R/shiny_h2o.R
 https://github.com/zhangyuqing/h2o_purchasing_intention/blob/master/h2o_Rcode.R
 https://github.com/aviyashchin/Machine-Learning-Explorer-in-Shiny
-
+http://suryaprakash.shinyapps.io/Data_Exploration
 
 
 
