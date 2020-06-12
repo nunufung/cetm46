@@ -58,7 +58,7 @@ https://github.com/JeanBertinR/shinyML
 https://rpubs.com/qasimahmed/OnlineShopping
 https://rpubs.com/kingiraffe/588410
 https://www.kaggle.com/annettecatherinepaul/online-shoppers-behavior-prediction
-
+https://github.com/mcpasin/web-analytics-dashboard
 
 
 
